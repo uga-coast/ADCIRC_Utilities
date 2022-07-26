@@ -1,4 +1,4 @@
-# ADCIRC_Utilities
+# ADCIRC_Utilities [![DOI](https://zenodo.org/badge/514007445.svg)](https://zenodo.org/badge/latestdoi/514007445)
 A suite of pre and post processing scripts for ADCIRC.  Written in MATLAB.
 
 ## Generation Tools
